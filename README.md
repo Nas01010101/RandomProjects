@@ -1,1 +1,1 @@
-# RandomProjects
+# Collection of random projects
